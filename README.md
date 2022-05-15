@@ -16,7 +16,7 @@ The application uses Webpack, IndexedDB and service worker to create a PWA that 
 
 - Opening the application in the browser IndexedDB creates a database storage.
 - Content in the text editor is saved when clicking off the DOM window and retrieved on reopening it after it's been closed.
-- Clocking the install button will download the application as an icon on the desktop and allow the user to use it offline.
+- Clicking the install button will download the application as an icon on the desktop and allow the user to use it offline.
 
 ## Screenshot
 
