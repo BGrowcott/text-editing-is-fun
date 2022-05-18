@@ -22,6 +22,10 @@ The application uses Webpack, IndexedDB and service worker to create a PWA that 
 
 ![Deployed Application](./screencapture-text-editing-is-fun-herokuapp-2022-05-15-23_46_04.png)
 
+## Deployed Application
+
+[Just Another Text Editor](https://text-editing-is-fun.herokuapp.com/)
+
 ## Contributing
 
 Ben Growcott - [GitHub](https://github.com/BGrowcott)
